@@ -8,8 +8,6 @@ from time import sleep as s
 pygame.init()
 pygame.display.set_caption('Змейка|py')
 
-print("Сделано специально для проекта по информатике Шестопалом Данилом, учеников 9 класса.")
-
 # Настройки шрифта и экрана
 font.init()
 path = font.match_font("arial")
